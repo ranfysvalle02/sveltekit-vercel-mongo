@@ -88,7 +88,6 @@ async function getApothegms() {
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
 
-	<Counter />
 </section>
 
 <style>
